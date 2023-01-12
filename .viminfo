@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1673443133,,"wq"
+|2,0,1673518025,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,42 @@
 # Registers:
 
 # File marks:
-'0  36  0  ~/0x0B-malloc_free/0-create_array.c
-|4,48,36,0,1673443133,"~/0x0B-malloc_free/0-create_array.c"
-'1  20  43  ~/0x09-static_libraries/libmy.a
-|4,49,20,43,1673440459,"~/0x09-static_libraries/libmy.a"
-'2  22  0  ~/0x09-static_libraries/main.h
-|4,50,22,0,1673440409,"~/0x09-static_libraries/main.h"
-'3  3  17  ~/0x09-static_libraries/create_static_lib.sh
-|4,51,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+'0  2  6  ~/README.md
+|4,48,2,6,1673518025,"~/README.md"
+'1  36  0  ~/0x0B-malloc_free/0-create_array.c
+|4,49,36,0,1673443133,"~/0x0B-malloc_free/0-create_array.c"
+'2  20  43  ~/0x09-static_libraries/libmy.a
+|4,50,20,43,1673440459,"~/0x09-static_libraries/libmy.a"
+'3  22  0  ~/0x09-static_libraries/main.h
+|4,51,22,0,1673440409,"~/0x09-static_libraries/main.h"
+'4  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,52,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
 
 # Jumplist (newest first):
+-'  2  6  ~/README.md
+|4,39,2,6,1673518025,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1673517937,"~/README.md"
 -'  36  0  ~/0x0B-malloc_free/0-create_array.c
 |4,39,36,0,1673443133,"~/0x0B-malloc_free/0-create_array.c"
+-'  36  0  ~/0x0B-malloc_free/0-create_array.c
+|4,39,36,0,1673443133,"~/0x0B-malloc_free/0-create_array.c"
+-'  1  0  ~/0x0B-malloc_free/0-create_array.c
+|4,39,1,0,1673443073,"~/0x0B-malloc_free/0-create_array.c"
 -'  1  0  ~/0x0B-malloc_free/0-create_array.c
 |4,39,1,0,1673443073,"~/0x0B-malloc_free/0-create_array.c"
 -'  20  43  ~/0x09-static_libraries/libmy.a
 |4,39,20,43,1673440459,"~/0x09-static_libraries/libmy.a"
 -'  20  43  ~/0x09-static_libraries/libmy.a
 |4,39,20,43,1673440459,"~/0x09-static_libraries/libmy.a"
+-'  20  43  ~/0x09-static_libraries/libmy.a
+|4,39,20,43,1673440459,"~/0x09-static_libraries/libmy.a"
+-'  20  43  ~/0x09-static_libraries/libmy.a
+|4,39,20,43,1673440459,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1673440441,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1673440441,"~/0x09-static_libraries/libmy.a"
 -'  1  0  ~/0x09-static_libraries/libmy.a
 |4,39,1,0,1673440441,"~/0x09-static_libraries/libmy.a"
 -'  1  0  ~/0x09-static_libraries/libmy.a
@@ -55,6 +73,22 @@
 |4,39,22,0,1673440409,"~/0x09-static_libraries/main.h"
 -'  22  0  ~/0x09-static_libraries/main.h
 |4,39,22,0,1673440409,"~/0x09-static_libraries/main.h"
+-'  22  0  ~/0x09-static_libraries/main.h
+|4,39,22,0,1673440409,"~/0x09-static_libraries/main.h"
+-'  22  0  ~/0x09-static_libraries/main.h
+|4,39,22,0,1673440409,"~/0x09-static_libraries/main.h"
+-'  22  0  ~/0x09-static_libraries/main.h
+|4,39,22,0,1673440409,"~/0x09-static_libraries/main.h"
+-'  22  0  ~/0x09-static_libraries/main.h
+|4,39,22,0,1673440409,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1673440398,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1673440398,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1673440398,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1673440398,"~/0x09-static_libraries/main.h"
 -'  1  0  ~/0x09-static_libraries/main.h
 |4,39,1,0,1673440398,"~/0x09-static_libraries/main.h"
 -'  1  0  ~/0x09-static_libraries/main.h
@@ -79,6 +113,38 @@
 |4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
 -'  3  17  ~/0x09-static_libraries/create_static_lib.sh
 |4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  3  17  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,3,17,1673440262,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
+-'  1  0  ~/0x09-static_libraries/create_static_lib.sh
+|4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
 -'  1  0  ~/0x09-static_libraries/create_static_lib.sh
 |4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
 -'  1  0  ~/0x09-static_libraries/create_static_lib.sh
@@ -97,6 +163,13 @@
 |4,39,1,0,1673440240,"~/0x09-static_libraries/create_static_lib.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1673518023	0
+	"	2	6
+	^	2	7
+	.	1	12
+	+	1	12
 
 > ~/0x0B-malloc_free/0-create_array.c
 	*	1673443131	0
